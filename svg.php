@@ -12,13 +12,13 @@
     <h1>SVG</h1>
   </header>
   <div class="navbar">
-    <a href="index.html">Home</a>
+    <a href="index.php">Home</a>
     <div class="dropdown">
       <button class="dropbtn">Contents
         <i class="fa fa-caret-down"></i>
       </button>
       <div class="dropdown-content">
-        <a href="svg.html">LE 5.1</a>
+        <a href="svg.php">LE 5.1</a>
       </div>
     </div>
   </div>
