@@ -10,7 +10,7 @@ body{
   width: 100%;
   margin: auto;
   overflow: hidden;
-  background-color: #FF5349;
+  background-color: #4c0066;
 }
 h1{
   color: #ffffff;
@@ -19,7 +19,7 @@ h1{
   font-size: 2vw;
 }
 #Footer{
-  background: #FF5349;
+  background: #4c0066;
   color: #ffffff;
   text-align: center;
   padding: 20px;
