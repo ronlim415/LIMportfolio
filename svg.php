@@ -9,7 +9,7 @@
 </head>
 <body>
   <header id="mainHeader">
-    <h1>SVG</h1>
+    <h1>SCALABLE VECTOR GRAPHICS</h1>
   </header>
   <div class="navbar">
     <a href="index.php">Home</a>
