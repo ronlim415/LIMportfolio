@@ -75,3 +75,52 @@ body {
   margin-left: 390px;
   background-color: black;
 }
+.container9{
+    margin-top: 250px;
+    margin-left: 785px;
+    width: 300px;
+    height: 300px;
+    background: #ffffff;
+    border: 5px double #000000;
+  }
+#poly-maroon{
+    animation-name: polygo;
+    animation-duration: 4s;
+    animation-iteration-count:1;
+    animation-timing-function: ease-in;
+    animation-fill-mode: forwards;
+  }
+@keyframes polygo{
+  0% {
+    transform: translateY(-20px);
+  }
+  25% {
+    transform: translateY(0px);
+  }
+  75%{
+    transform: translateX(-5px);
+  }
+  100%{
+    transform: translateX(0px);
+  }
+}
+#poly-orange{
+  animation-name: polygo1;
+  animation-duration: 4s;
+  animation-iteration-count:1;
+  animation-timing-function: ease-in;
+}
+@keyframes polygo1{
+0% {
+  transform: translateY(20px);
+}
+25%{
+  transform: translateY(0px);
+}
+75%{
+  transform: translateX(5px);
+}
+100% {
+  transform: translateX(0px);
+}
+}
