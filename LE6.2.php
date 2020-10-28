@@ -12,15 +12,15 @@
         <h1>SCALABLE VECTOR GRAPHICS</h1>
       </header>
       <div class="navbar">
-        <a href="index.html">Home</a>
+        <a href="index.php">Home</a>
         <div class="dropdown">
           <button class="dropbtn">Contents
             <i class="fa fa-caret-down"></i>
           </button>
           <div class="dropdown-content">
-            <a href="svg.html">LE 5.1</a>
-            <a href="LE6.1.html">LE 6.1</a>
-            <a href="LE6.2.html">LE 6.2</a>
+            <a href="svg.php">LE 5.1</a>
+            <a href="LE6.1.php">LE 6.1</a>
+            <a href="LE6.2.php">LE 6.2</a>
           </div>
         </div>
       </div>
